@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 IT & Cybersecurity Projects:</h2>
 
-- <b>Security Operatons Center(SOC) Analyst</b>
+- <b> 🔒 Security Operatons Center(SOC) Analyst</b>
 
   - [SIEM Implementation](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
   - [Log Analysis](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
@@ -10,7 +10,7 @@
   - [Threat Intelligence Gathering ](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
   - [Phishing Simulation](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
   - [Malware Analysis](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
-- <b>Security Engineer</b>
+- <b> 🔧 Security Engineer</b>
 
   - [Vulnerability Assessment](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
   - [Penetration Testing](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
@@ -20,7 +20,7 @@
   - [Encryption Projects](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
 
 
-<h2>📺 Certifications</h2>
+<h2> 📄 Certifications</h2>
 
 - [Google Professional IT Support Certification](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [Google Professional Cybersecurity Certification](https://www.youtube.com/watch?v=uHy3oM7NnoU)
