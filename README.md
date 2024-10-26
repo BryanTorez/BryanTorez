@@ -1,6 +1,6 @@
 <h1>Hi, I'm Bryan! <br/>IT</a> & Cybersecurity Professional</a> </a></h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 IT & Cybersecurity Projects:</h2>
 
 - <b>Security Operatons Center(SOC) Analyst</b>
 
