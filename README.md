@@ -12,6 +12,8 @@
 
   - [SOC Automation Lab](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i> (Completed)
   - [Network Security Lab](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i> (In Progress)
+  - [Active Directory Lab](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i> (In Progress)
+  - [Homemade Linux Server](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i> (In Progress)
 
 
 <h2> 📄 Certifications</h2>
