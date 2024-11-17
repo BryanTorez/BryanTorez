@@ -6,7 +6,7 @@
 
   - [Zendesk Help Desk Software Simulation](https://github.com/BryanTorez/Zendesk-Help-Desk-Software-Simulation) <b><i></b></i>
   - [Peppermint Self-hosted Ticketing System](https://github.com/BryanTorez/Peppermint-Self-Hosted-Ticketing-System) <b><i></b></i>
-  - [Spiceworks Cloud-Based Help Desk Software](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
+  - [Spiceworks Cloud-Based Help Desk Software](https://github.com/BryanTorez/Spiceworks-Cloud-Based-Help-Desk-Software) <b><i></b></i>
  
 - <b> 🔧 Security Engineer Experience</b>
 
