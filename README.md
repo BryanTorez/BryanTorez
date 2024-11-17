@@ -10,7 +10,7 @@
  
 - <b> 🔧 Security Engineer Experience</b>
 
-  - [SOC Automation Lab](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i> (Completed)
+  - [SOC Automation Lab](https://github.com/BryanTorez/SOC-Automation-Lab) <b><i></b></i> (Completed)
   - [Network Security Lab](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i> (In Progress)
   - [Active Directory Lab](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i> (In Progress)
   - [Homemade Linux Server](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i> (In Progress)
