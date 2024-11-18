@@ -19,18 +19,18 @@
 
 <h2> 📄 Certifications</h2>
 
-- [Google Professional IT Support Certification (Completed)](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Google Professional IT Support Certification (Completed)](https://snipboard.io/0m8c6v.jpg)
   - The Google Professional IT Support Certificate is an online program designed to provide foundational IT skills and hands-on training for entry-level IT support roles. Offered through platforms like Coursera, it covers key topics such as troubleshooting, networking, system administration, and cybersecurity fundamentals. With interactive labs and real-world scenarios, the certificate helps learners develop practical, job-ready skills. It requires no prior experience, making it accessible to beginners, and is recognized by many employers as a qualification for roles like IT support specialist and help desk technician.
 
-- [Google Professional Cybersecurity Certification (Completed)](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- [Google Professional Cybersecurity Certification (Completed)](https://snipboard.io/0SGcbC.jpg)
   - The Google Professional Cybersecurity Certificate is an online training program aimed at equipping learners with the essential skills needed for entry-level cybersecurity roles. It covers key areas such as network security, risk management, incident response, and threat detection, with a focus on practical, hands-on experience through labs and real-world simulations. Designed for accessibility, the program requires no prior cybersecurity experience and prepares participants for roles like cybersecurity analyst and security operations center (SOC) analyst, offering a recognized credential that can enhance career opportunities in the cybersecurity field.
 
-- [CompTIA A+ Certification](https://www.youtube.com/watch?v=uHy3oM7NnoU) (In Progress)
+- [CompTIA A+ Certification]() (In Progress)
   - The CompTIA A+ certification is a widely recognized entry-level credential for IT professionals that validates foundational skills in hardware, software, networking, and troubleshooting. It covers essential areas such as the installation and configuration of PCs, mobile devices, and operating systems, as well as basic cybersecurity practices. This certification is known for demonstrating technical competence in supporting and maintaining computer systems, making it ideal for roles like IT support specialist and help desk technician. CompTIA A+ is often seen as a stepping stone for advancing in IT careers and pursuing more specialized certifications.
 
 <h2> 🏢 Job Experience</h2>
 
-- [Remote Cyber Security Internship](https://www.youtube.com/watch?v=a83ASGn_V_s) (In Progress)
+- [Remote Cyber Security Internship]() (In Progress)
   <b>
   </b>
   
