@@ -11,8 +11,9 @@
 - <b> 🔧 Security Engineer Experience</b>
 
   - [SOC Automation Lab](https://github.com/BryanTorez/SOC-Automation-Lab) <b><i></b></i> (Completed)
-  - [SOC Analyst Lab](https://github.com/BryanTorez/SOC-Automation-Lab) <b><i></b></i> (Completed)
-  - [Honeypot Lab]() <b><i></b></i> (In Progress)
+  - [SOC Analyst Lab - PDF Malware Analysis](https://github.com/BryanTorez/SOC-Automation-Lab) <b><i></b></i> (Completed)
+  - [SOC Analyst Lab - Network Malware Analysis](https://github.com/BryanTorez/SOC-Automation-Lab) <b><i></b></i> (Completed)
+  - [T-Pot Honeypot Lab](https://github.com/BryanTorez/Honeypot-Lab) <b><i></b></i> (Completed)
   - [Active Directory Lab]() <b><i></b></i> (In Progress)
   - [Homemade Linux Server]() <b><i></b></i> (In Progress)
 
