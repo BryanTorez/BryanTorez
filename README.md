@@ -10,7 +10,7 @@
  
 - <b> 🔧 Security Engineer Experience</b>
 
-  - [SOC Analyst Lab - PDF Malware Analysis](https://github.com/BryanTorez/SOC-Analyst-Lab---PDF-Analysis) <b><i></b></i> (Completed)
+  - [SOC Analyst Lab - PDF Malware Analysis](https://github.com/BryanTorez/SOC-Analyst-Lab---PDF-Analysis) <b><i></b></i> (Almost Completed)
   - [SOC Analyst Lab - Network Malware Analysis](https://github.com/BryanTorez/SOC-Analyst-Lab-Network-Analysis) <b><i></b></i> (Completed)
   - [SOC Analyst Lab - Email Analysis (Phishing)](https://github.com/BryanTorez/SOC-Analyst-Lab-Email-Analysis-Phishing-) <b><i></b></i> (Completed)
   - [SOC Analyst Lab - Web Server Analysis (Tomcat)](https://github.com/BryanTorez/SOC-Analyst-Lab-Web-Server-Analysis) <b><i></b></i> (Completed)
