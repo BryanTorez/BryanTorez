@@ -8,7 +8,7 @@
   - [Peppermint Self-hosted Ticketing System](https://github.com/BryanTorez/Peppermint-Self-Hosted-Ticketing-System) <b><i></b></i>
   - [Spiceworks Cloud-Based Help Desk Software](https://github.com/BryanTorez/Spiceworks-Cloud-Based-Help-Desk-Software) <b><i></b></i>
  
-- <b> 🔧 Security Engineer Experience</b>
+- <b> 🔧 SOC Analyst Experience</b>
 
   - [SOC Analyst Lab - PDF Malware Analysis](https://github.com/BryanTorez/SOC-Analyst-Lab---PDF-Analysis) <b><i></b></i> (Completed)
   - [SOC Analyst Lab - Network Malware Analysis](https://github.com/BryanTorez/SOC-Analyst-Lab-Network-Analysis) <b><i></b></i> (Completed)
