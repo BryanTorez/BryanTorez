@@ -14,7 +14,7 @@
   - [Network Malware Analysis](https://github.com/BryanTorez/SOC-Analyst-Lab-Network-Analysis) <b><i></b></i> (Completed)
   - [Email Analysis (Phishing)](https://github.com/BryanTorez/SOC-Analyst-Lab-Email-Analysis-Phishing-) <b><i></b></i> (In Progress)
   - [Web Server Analysis (Tomcat)](https://github.com/BryanTorez/SOC-Analyst-Lab-Web-Server-Analysis) <b><i></b></i> (In Progress)
-  - [Network Analysis (Exfiltration)](https://github.com/BryanTorez/SOC-Analyst-Lab-Web-Server-Analysis) <b><i></b></i> (In Progress)
+  - [Network Analysis (Exfiltration)](https://github.com/BryanTorez/Network-Analysis-Exfiltration) <b><i></b></i> (In Progress)
   - [SOC Automation Lab](https://github.com/BryanTorez/SOC-Automation-Lab) <b><i></b></i> (In Progress)
   - [T-Pot Honeypot Lab](https://github.com/BryanTorez/Honeypot-Lab) <b><i></b></i> (Completed)
   - [Active Directory Lab]() <b><i></b></i> (In Progress)
