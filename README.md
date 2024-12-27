@@ -22,7 +22,12 @@
     - <b> [SOC Automation Lab (Part 4)](https://github.com/BryanTorez/SOC-Automation-Lab-Part-4) <b><i></b></i> (In Progress)
     - <b> [SOC Automation Lab (Part 5)](https://github.com/BryanTorez/SOC-Automation-Lab-Part-5) <b><i></b></i> (In Progress)
   - [T-Pot Honeypot Lab](https://github.com/BryanTorez/Honeypot-Lab) <b><i></b></i> (Completed)
-  - [Active Directory Lab]() <b><i></b></i> (In Progress)
+  - [Active Directory Lab (Intro)](https://github.com/BryanTorez/Active-Directory-Lab) <b><i></b></i> (In Progress)
+    - [Active Directory Lab (Part 1)](https://github.com/BryanTorez/Active-Directory-Project-Part-1) <b><i></b></i> (In Progress)
+    - [Active Directory Lab (Part 2)](https://github.com/BryanTorez/Active-Directory-Project-Part-2) <b><i></b></i> (In Progress)
+    - [Active Directory Lab (Part 3)](https://github.com/BryanTorez/Active-Directory-Project-Part-3) <b><i></b></i> (In Progress)
+    - [Active Directory Lab (Part 4)](https://github.com/BryanTorez/Active-Directory-Project-Part-4) <b><i></b></i> (In Progress)
+    - [Active Directory Lab (Part 5)](https://github.com/BryanTorez/Active-Directory-Project-Part-5) <b><i></b></i> (In Progress)
   - [Homemade Linux Server]() <b><i></b></i> (In Progress)
 
 
