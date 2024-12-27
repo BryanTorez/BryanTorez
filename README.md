@@ -11,12 +11,12 @@
 - <b> 🔧 SOC Analyst Experience</b>
 
   - [PDF Malware Analysis](https://github.com/BryanTorez/SOC-Analyst-Lab---PDF-Analysis) <b><i></b></i> (Completed)
-  - [SOAR EDR Project (Intro)](https://github.com/BryanTorez/SOC-Analyst-Lab---PDF-Analysis) <b><i></b></i> (Completed)
-    - [SOAR EDR Project (Part 1)](https://github.com/BryanTorez/SOC-Analyst-Lab---PDF-Analysis) <b><i></b></i> (Completed)
-    - [SOAR EDR Project (Part 2)](https://github.com/BryanTorez/SOC-Analyst-Lab---PDF-Analysis) <b><i></b></i> (Completed)
-    - [SOAR EDR Project (Part 3)](https://github.com/BryanTorez/SOC-Analyst-Lab---PDF-Analysis) <b><i></b></i> (Completed)
-    - [SOAR EDR Project (Part 4)](https://github.com/BryanTorez/SOC-Analyst-Lab---PDF-Analysis) <b><i></b></i> (Completed)
-    - [SOAR EDR Project (Part 5)](https://github.com/BryanTorez/SOC-Analyst-Lab---PDF-Analysis) <b><i></b></i> (Completed)
+  - [SOAR EDR Project (Intro)](https://github.com/BryanTorez/SOAR-EDR-Intro) <b><i></b></i> (Completed)
+    - [SOAR EDR Project (Part 1)](https://github.com/BryanTorez/SOAR-EDR-Part-1) <b><i></b></i> (Completed)
+    - [SOAR EDR Project (Part 2)](https://github.com/BryanTorez/SOAR-EDR-Part-2) <b><i></b></i> (Completed)
+    - [SOAR EDR Project (Part 3)](https://github.com/BryanTorez/SOAR-EDR-Part-3) <b><i></b></i> (Completed)
+    - [SOAR EDR Project (Part 4)](https://github.com/BryanTorez/SOAR-EDR-Part-4) <b><i></b></i> (Completed)
+    - [SOAR EDR Project (Part 5)](https://github.com/BryanTorez/SOAR-EDR-Part-5) <b><i></b></i> (Completed)
   - [Network Malware Analysis](https://github.com/BryanTorez/SOC-Analyst-Lab-Network-Analysis) <b><i></b></i> (Completed)
   - [Email Analysis (Phishing)](https://github.com/BryanTorez/SOC-Analyst-Lab-Email-Analysis-Phishing-) <b><i></b></i> (In Progress)
   - [Web Server Analysis (Tomcat)](https://github.com/BryanTorez/SOC-Analyst-Lab-Web-Server-Analysis) <b><i></b></i> (In Progress)
