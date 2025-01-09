@@ -35,6 +35,10 @@
     - [Active Directory Lab (Part 4)](https://github.com/BryanTorez/Active-Directory-Project-Part-4) <b><i></b></i> (In Progress)
     - [Active Directory Lab (Part 5)](https://github.com/BryanTorez/Active-Directory-Project-Part-5) <b><i></b></i> (In Progress)
 
+- <b> 🔧 SOC Analyst Experience</b>
+
+  - [Internship Completed STIGS]
+
 
 <h2> 📄 Certifications</h2>
 
