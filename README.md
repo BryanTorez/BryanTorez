@@ -37,7 +37,7 @@
 
 - <b> 🔧 SOC Analyst Experience</b>
 
-  - [Internship Completed STIGS]
+  - [Internship Completed STIGS](https://github.com/BryanTorez/Lognpacific-public) <b><i></b></i> (In Progress)
 
 
 <h2> 📄 Certifications</h2>
