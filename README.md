@@ -35,7 +35,7 @@
     - [Active Directory Lab (Part 4)](https://github.com/BryanTorez/Active-Directory-Project-Part-4) <b><i></b></i> (In Progress)
     - [Active Directory Lab (Part 5)](https://github.com/BryanTorez/Active-Directory-Project-Part-5) <b><i></b></i> (In Progress)
 
-- <b> 🔧 SOC Analyst Experience</b>
+- <b> 🔧 Internship STIGS </b>
 
   - [Internship Completed STIGS](https://github.com/BryanTorez/Lognpacific-public) <b><i></b></i> (In Progress)
 
