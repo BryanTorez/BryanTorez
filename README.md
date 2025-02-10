@@ -10,23 +10,23 @@
  
 - <b> 🔧 SOC Analyst Experience</b>
 
-  - [PDF Malware Analysis](https://github.com/BryanTorez/SOC-Analyst-Lab---PDF-Analysis) <b><i></b></i> (Completed)
-  - [SOAR EDR Project (Intro)](https://github.com/BryanTorez/SOAR-EDR-Intro) <b><i></b></i> (Completed)
-    - [SOAR EDR Project (Part 1)](https://github.com/BryanTorez/SOAR-EDR-Part-1) <b><i></b></i> (Completed)
-    - [SOAR EDR Project (Part 2)](https://github.com/BryanTorez/SOAR-EDR-Part-2) <b><i></b></i> (Completed)
-    - [SOAR EDR Project (Part 3)](https://github.com/BryanTorez/SOAR-EDR-Part-3) <b><i></b></i> (Completed)
-    - [SOAR EDR Project (Part 4)](https://github.com/BryanTorez/SOAR-EDR-Part-4) <b><i></b></i> (Completed)
+  - [PDF Malware Analysis](https://github.com/BryanTorez/SOC-Analyst-Lab---PDF-Analysis) <b><i></b></i> 
+  - [SOAR EDR Project (Intro)](https://github.com/BryanTorez/SOAR-EDR-Intro) <b><i></b></i> 
+    - [SOAR EDR Project (Part 1)](https://github.com/BryanTorez/SOAR-EDR-Part-1) <b><i></b></i> 
+    - [SOAR EDR Project (Part 2)](https://github.com/BryanTorez/SOAR-EDR-Part-2) <b><i></b></i> 
+    - [SOAR EDR Project (Part 3)](https://github.com/BryanTorez/SOAR-EDR-Part-3) <b><i></b></i> 
+    - [SOAR EDR Project (Part 4)](https://github.com/BryanTorez/SOAR-EDR-Part-4) <b><i></b></i> 
     - [SOAR EDR Project (Part 5)](https://github.com/BryanTorez/SOAR-EDR-Part-5) <b><i></b></i> (In Progress)
-  - [Network Malware Analysis](https://github.com/BryanTorez/SOC-Analyst-Lab-Network-Analysis) <b><i></b></i> (Completed)
+  - [Network Malware Analysis](https://github.com/BryanTorez/SOC-Analyst-Lab-Network-Analysis) <b><i></b></i> 
   - [Email Analysis (Phishing)](https://github.com/BryanTorez/SOC-Analyst-Lab-Email-Analysis-Phishing-) <b><i></b></i> (In Progress)
-  - [Web Server Analysis (Tomcat)](https://github.com/BryanTorez/SOC-Analyst-Lab-Web-Server-Analysis) <b><i></b></i> (In Progress)
+  - [Web Server Analysis (Tomcat)](https://github.com/BryanTorez/SOC-Analyst-Lab-Web-Server-Analysis) <b><i></b></i> 
   - [Network Analysis (Exfiltration)](https://github.com/BryanTorez/Network-Analysis-Exfiltration) <b><i></b></i> (In Progress)
-  - [SOC Automation Lab (Intro)](https://github.com/BryanTorez/SOC-Automation-Lab) <b><i></b></i> (In Progress)
-    - <b> [SOC Automation Lab (Part 1)](https://github.com/BryanTorez/SOC-Automation-Lab-Part-1) <b><i></b></i> (In Progress)
-    - <b> [SOC Automation Lab (Part 2)](https://github.com/BryanTorez/SOC-Automation-Lab-Part-2) <b><i></b></i> (In Progress)
-    - <b> [SOC Automation Lab (Part 3)](https://github.com/BryanTorez/SOC-Automation-Lab-Part-3) <b><i></b></i> (In Progress)
-    - <b> [SOC Automation Lab (Part 4)](https://github.com/BryanTorez/SOC-Automation-Lab-Part-4) <b><i></b></i> (In Progress)
-    - <b> [SOC Automation Lab (Part 5)](https://github.com/BryanTorez/SOC-Automation-Lab-Part-5) <b><i></b></i> (In Progress)
+  - [SOC Automation Lab (Intro)](https://github.com/BryanTorez/SOC-Automation-Lab) <b><i></b></i> 
+    - <b> [SOC Automation Lab (Part 1)](https://github.com/BryanTorez/SOC-Automation-Lab-Part-1) <b><i></b></i> 
+    - <b> [SOC Automation Lab (Part 2)](https://github.com/BryanTorez/SOC-Automation-Lab-Part-2) <b><i></b></i> 
+    - <b> [SOC Automation Lab (Part 3)](https://github.com/BryanTorez/SOC-Automation-Lab-Part-3) <b><i></b></i> 
+    - <b> [SOC Automation Lab (Part 4)](https://github.com/BryanTorez/SOC-Automation-Lab-Part-4) <b><i></b></i> 
+    - <b> [SOC Automation Lab (Part 5)](https://github.com/BryanTorez/SOC-Automation-Lab-Part-5) <b><i></b></i> 
   - [T-Pot Honeypot Lab](https://github.com/BryanTorez/Honeypot-Lab) <b><i></b></i> (Completed)
   - [Active Directory Lab (Intro)](https://github.com/BryanTorez/Active-Directory-Lab) <b><i></b></i> (In Progress)
     - [Active Directory Lab (Part 1)](https://github.com/BryanTorez/Active-Directory-Project-Part-1) <b><i></b></i> (In Progress)
