@@ -53,7 +53,7 @@
 
 <h2> 🏢 Job Experience</h2>
 
-- [Remote Cyber Security Internship]()
+- [Security Engineering Internship]()
   <b>
   </b>
   
