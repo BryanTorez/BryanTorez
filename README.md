@@ -4,7 +4,7 @@
 
 - <b> 🔒 IT Help Support Experience</b>
 
-  - [Zendesk Help Desk Software Simulation](https://github.com/BryanTorez/Zendesk-Help-Desk-Software-Simulation) <b><i></b></i>
+  - [Zendesk Help Desk Software Simulation]() <b><i></b></i>
   - [Peppermint Self-hosted Ticketing System](https://github.com/BryanTorez/Peppermint-Self-Hosted-Ticketing-System) <b><i></b></i>
   - [Spiceworks Cloud-Based Help Desk Software](https://github.com/BryanTorez/Spiceworks-Cloud-Based-Help-Desk-Software) <b><i></b></i>
  
