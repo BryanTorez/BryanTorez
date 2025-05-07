@@ -1,4 +1,4 @@
-<h1>Hi, I'm Bryan! <br/></a> A Security Engineer Student</a> </a></h1>
+<h1>Hi, I'm Bryan! <br/></a> A Security Engineering Student</a> </a></h1>
 
   - Security Enthusiast with two impressive security labs. Dedicated IT Support professional with 6 months of help desk experience providing unforgettable experiences to clients while maintaining an obsession with learning security engineering. Plagued with the overwhelming urge to tinker, problem-solve, and build enterprise-level security infrastructures.
 
