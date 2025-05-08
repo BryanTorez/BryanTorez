@@ -1,12 +1,6 @@
 <h1>Hi, I'm Bryan! <br/></a> A Security Engineering Student</a> </a></h1>
 
   - Security Enthusiast with two impressive security labs. Dedicated IT Support professional with 3 months of help desk experience providing unforgettable experiences to clients while maintaining an obsession with learning security engineering. Plagued with the overwhelming urge to tinker, problem-solve, and build enterprise-level security infrastructures.
-
-- <b> 🔒 IT Help Support Experience</b>
-
-  - Zendesk Help Desk Software Simulation <b><i></b></i>
-  - [Peppermint Self-hosted Ticketing System](https://github.com/BryanTorez/Peppermint-Self-Hosted-Ticketing-System) <b><i></b></i>
-  - [Spiceworks Cloud-Based Help Desk Software](https://github.com/BryanTorez/Spiceworks-Cloud-Based-Help-Desk-Software) <b><i></b></i>
  
 - <b> 🔧 SOC Analyst Experience</b>
 
